@@ -1,5 +1,5 @@
 
-# Termux-banner
+# MR. ZIP
 
 - [+] **Very use to use 
 - [+] ** 100% working 
@@ -28,3 +28,4 @@ bash MR_ZIP.sh
 
 ### Connect with us:
 - [GitHub](https://github.com/mrinosuke)
+suke)

@@ -16,7 +16,7 @@ apt install python3
 pip install colorama
 git clone https://github.com/mrinosuke/MR--ZIP
 ls
-cd MRZIP
+cd MR--ZIP
 chmod +x MR_ZIP
 bash MR_ZIP.sh
 ```

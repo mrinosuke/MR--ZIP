@@ -1,9 +1,9 @@
 
 # MR. ZIP
 
-- [+] **Very use to use 
-- [+] ** 100% working 
-- [+] ** Zip password crack 
+- [+] **Very easy to use 
+- [+] **100% working 
+- [+] **Zip password crack 
 - [+] **Made by Inosuke 
 - [+] **Easy for Beginners!
 

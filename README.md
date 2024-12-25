@@ -30,10 +30,12 @@ chmod +x MR_ZIP
 ```
 
 ### Note:
-- Only use your file .
+- This tool use only your owned file.
 
 ---
 
 ### Connect with us:
 - [GitHub](https://github.com/mrinosuke)
+- [Mr. White ] ( https://www.github.com/SIYAM-143)
+
 

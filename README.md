@@ -11,14 +11,22 @@
 
 ```bash
 apt-get update -y
+
 apt-get upgrade -y
+
 apt install python3
+
 pip install colorama
+
 git clone https://github.com/mrinosuke/MR--ZIP
+
 ls
+
 cd MR--ZIP
+
 chmod +x MR_ZIP
-bash MR_ZIP.sh
+
+./MR--ZIP
 ```
 
 ### Note:

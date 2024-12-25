@@ -14,7 +14,7 @@ apt-get update -y
 apt-get upgrade -y
 apt install python3
 pip install colorama
-git clone https://github.com/mrinosuke/MR-ZIP
+git clone https://github.com/mrinosuke/MR--ZIP
 ls
 cd MRZIP
 chmod +x MR_ZIP

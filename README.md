@@ -34,7 +34,5 @@ chmod +x MR_ZIP
 
 ---
 
-### Connect with us:
-- [Mr. White](https://www.github.com/SIYAM-143)
 
 
